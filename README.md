@@ -30,3 +30,4 @@ Youtube Link: https://youtu.be/-h-pqSgSREU
 ## Implementation 
 * Python in Jupyter Notebook.
 * Different regressor models like Random Forests, Decision Tree, AdaBoost, LGBM, and XGBoost regressor models to determine the best performing model using root mean squared error as the testing parameter.
+* Data Analysis and Visualization using  Pandas, Numpy, Matplotlib & Seaborn.
