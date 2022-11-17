@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-Stock Market Prediction using Textual and Numerical Analysis
+Stock Market Prediction using Textual and Numerical Analysis. <br>
 Youtube Link: https://youtu.be/-h-pqSgSREU
 
 ## Features
